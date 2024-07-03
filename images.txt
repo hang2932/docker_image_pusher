@@ -1,1 +1,5 @@
-jxxghp/moviepilot
+easychen/cookiecloud
+mzz2017/v2raya
+linuxserver/qbittorrent
+diygod/rsshub
+linuxserver/transmission
